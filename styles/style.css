@@ -67,3 +67,10 @@ ul li a:hover{
 .p{
     text-align: center;
 }
+.brand-ar{
+    font-weight: 700px;
+   font-size: 64px;
+   line-height: 75px;
+   text-align: center;
+   color: #131313
+}
