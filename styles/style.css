@@ -13,3 +13,9 @@
     display: flex;
     justify-content: space-between;
 }
+.brand-name {
+    width: 302px;
+    height:53px;
+    white-space: nowrap;
+    margin:50px 10px 120px 228px
+}
