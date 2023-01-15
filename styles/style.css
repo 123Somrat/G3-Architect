@@ -42,3 +42,15 @@ ul li a {
 ul li a:hover{
     background-color: aqua;
 }
+.company-overview{
+    width: 862px;
+    height:225px;
+    margin:100px 529px 25px 529px;
+}
+.brand{
+    font-weight: 700px;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #131313
+}
