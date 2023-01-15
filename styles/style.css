@@ -22,3 +22,13 @@
 .nav-items{
     margin:63px 200px 150px 150px
 }
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+ul li {
+    list-style-type:none;
+    
+   
+}
