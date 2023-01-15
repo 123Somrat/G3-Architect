@@ -29,6 +29,13 @@ ul{
 }
 ul li {
     list-style-type:none;
-    
-   
+}
+ul li a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #424242;
+    padding:10px 15px;
+    border-radius: 5px;
 }
