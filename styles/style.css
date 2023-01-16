@@ -471,6 +471,15 @@ ul li a:hover{
             height:120px;
              margin-left:10px;
              margin-right:20px
-         }  
+         } 
+         .achivement{
+            grid-template-columns: repeat(1,1fr);
+            margin-left:50px;
+            margin-bottom:120px
+         }
+         .sponsars{
+            width:100%;
+            margin-left:10px
+         } 
 }
 
