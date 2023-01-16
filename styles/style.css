@@ -439,5 +439,16 @@ ul li a:hover{
                margin-left: 5px;
                
           }
+          .feature-1{
+            width:320px;
+            height: 280px;
+            margin-left:5px
+          }
+         .feature{
+            width:320px;
+            height: 130px;
+            margin-left:5px;
+            margin-bottom: 20px;
+          }
 }
 
