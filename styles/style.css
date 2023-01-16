@@ -463,5 +463,14 @@ ul li a:hover{
             height:130px;
             
           }
+          .op{
+            width:100px;
+            height:200px
+         }
+         .facts{
+            height:120px;
+             margin-left:10px;
+             margin-right:20px
+         }  
 }
 
