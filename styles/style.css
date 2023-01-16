@@ -105,3 +105,13 @@ ul li a:hover{
      align-items: center;
      margin: 30px 30px 20px 350px;
 }
+.teams img{
+    width: 342px;
+    height:342px;
+}
+.quick{
+   font-weight: 500px;
+   font-size: 45px;
+   line-height: 53px;
+   color: #727272; 
+}
