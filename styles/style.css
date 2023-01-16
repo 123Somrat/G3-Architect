@@ -115,3 +115,15 @@ ul li a:hover{
    line-height: 53px;
    color: #727272; 
 }
+.of-our{
+    font-weight: 500px;
+   font-size: 45px;
+   line-height: 53px;
+   color:#131313 
+}
+.features{
+    font-weight: 500px;
+    font-size: 45px;
+    line-height: 53px;
+    color: #FF900E; 
+}
