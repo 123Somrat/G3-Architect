@@ -249,3 +249,12 @@ ul li a:hover{
    margin-right:124px;
    transition: transform 3s ease-in 2s;
 }
+.award-details{
+    margin:45.92px 38.92px 59.69px 33.92px;
+    text-align:center;
+    white-space: nowrap;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 43px;
+     color: #727272;
+}
