@@ -277,3 +277,19 @@ ul li a:hover{
     margin-right:124px;
     transition: transform 3s;
 }
+.award:hover{
+    transform:rotate(360deg);
+    }
+    
+    .project:hover{
+         transform:rotate(360deg);
+     }
+    
+     .client:hover{
+         transform:rotate(360deg);
+     }
+    
+     .send-email:hover{
+        
+         transform:rotate(360deg);
+     }
