@@ -182,3 +182,7 @@ ul li a:hover{
    line-height: 20px; 
    color: #727272;
 }
+.enjoy{
+    border-left: 3px solid #FF900E;
+    padding:10px;
+}
