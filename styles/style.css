@@ -450,5 +450,18 @@ ul li a:hover{
             margin-left:5px;
             margin-bottom: 20px;
           }
+          .collegues-img>img{
+            width: 340px;
+            height:80%;
+            object-fit: cover;
+            margin-left: 10px;
+            
+          }
+          .experience{
+            margin-left: 28px;
+            width: 320px;
+            height:130px;
+            
+          }
 }
 
