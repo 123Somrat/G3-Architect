@@ -342,4 +342,18 @@ ul li a:hover{
     text-align: center;
     
 }
+.copyright>p{
+    width:100%;
+    height:10px;
+    background: #FFF4E7;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+    text-align: center;   
+     color: #424242;
+     padding:30px;
+}
+
+
 
