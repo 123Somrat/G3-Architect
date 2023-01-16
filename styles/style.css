@@ -431,5 +431,13 @@ ul li a:hover{
              margin:60px 0px 100px 20px;
              
           }
+          .fe-details{
+            width:360px
+          }
+          .amazing-features{
+               flex-direction: column;
+               margin-left: 5px;
+               
+          }
 }
 
