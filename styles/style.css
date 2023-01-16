@@ -238,3 +238,14 @@ ul li a:hover{
      color: #727272;
     white-space: wrap;
 }
+.achivement{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin:100px 290px 180px 290px;
+}
+.award{
+   width:241px;
+   height:241px;
+   margin-right:124px;
+   transition: transform 3s ease-in 2s;
+}
