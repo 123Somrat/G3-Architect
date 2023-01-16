@@ -91,3 +91,17 @@ ul li a:hover{
     height:700px;
     margin: 50px 240px 45px 240px;
 }
+.main{
+    display: flex;
+}
+
+.teams{
+     width:684px;
+     height:684px ;
+     display: grid;
+     grid-template-columns: repeat(2,1fr);
+     gap:10px;
+     justify-content: center;
+     align-items: center;
+     margin: 30px 30px 20px 350px;
+}
