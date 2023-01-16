@@ -191,3 +191,22 @@ ul li a:hover{
     height:782px;
     
 }
+.experience{
+    width:342px;
+    height:200px;
+    background-color: #FF900E;
+    border-radius: 5px;
+    position:relative;
+    top:-90px;
+    right: 25px;
+   
+}
+.years{
+    display: inline-block;
+    font-weight: 700px;
+    font-size: 65px;
+    color:#FFFFFF;
+    line-height: 70px;
+     margin-top:30px;
+     margin-left:30px
+}
