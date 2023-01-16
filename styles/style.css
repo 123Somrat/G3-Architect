@@ -490,5 +490,9 @@ ul li a:hover{
             width:100%;
             margin-left:10px
          } 
+         .copyright>p{
+            padding: 8px;
+            
+         }
 }
 
