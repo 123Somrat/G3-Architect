@@ -390,6 +390,15 @@ ul li a:hover{
             font-size: 30px;
             margin-right: 55px;
             white-space: nowrap;   
+        }
+        .brand-ar{
+            font-size: 30px;
+            margin-left:10px;
+            margin-bottom:15px
+           }
+         .details{
+          width: 280px;
+          height:300px;
            }
 }
 
