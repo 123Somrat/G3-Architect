@@ -386,5 +386,10 @@ ul li a:hover{
         width:100%;
         height: 100%;
         }
+        .brand {
+            font-size: 30px;
+            margin-right: 55px;
+            white-space: nowrap;   
+           }
 }
 
