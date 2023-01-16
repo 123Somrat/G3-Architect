@@ -279,17 +279,22 @@ ul li a:hover{
 }
 .award:hover{
     transform:rotate(360deg);
-    }
-    
-    .project:hover{
+}   
+.project:hover{
          transform:rotate(360deg);
-     }
-    
-     .client:hover{
+}
+.client:hover{
          transform:rotate(360deg);
-     }
+}
     
-     .send-email:hover{
-        
-         transform:rotate(360deg);
-     }
+.send-email:hover{
+    
+    transform:rotate(360deg);
+}
+.sponsars{
+    width:542px;
+    height:129px;
+    margin:180px 689px 50px 689px
+}
+
+
