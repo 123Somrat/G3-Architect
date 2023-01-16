@@ -322,5 +322,16 @@ ul li a:hover{
 .amazon{
     margin-top:10px
 }
-
+.footer{
+    width:100%;
+    height:250px;
+    background-color: #131313;
+}
+.subscribe{
+  text-align: center;
+  padding: 25px;
+  color:#FF900E;
+  
+   
+}
 
