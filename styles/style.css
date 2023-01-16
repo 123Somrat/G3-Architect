@@ -330,8 +330,16 @@ ul li a:hover{
 .subscribe{
   text-align: center;
   padding: 25px;
-  color:#FF900E;
-  
-   
+  color:#FF900E; 
+}
+.in{
+    width: 350px;
+    height:50px;
+    border-radius: 5px;
+    margin-top:20px;
+    margin-bottom: 50px;
+    margin-left:780px;
+    text-align: center;
+    
 }
 
