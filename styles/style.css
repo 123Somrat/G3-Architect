@@ -377,5 +377,14 @@ ul li a:hover{
        position: relative;
       flex-direction: column;
      }
+     .company-overview{
+        width: 100%;
+        margin: 0px 0px 0px 35px;
+        white-space: wrap;
+        }
+     .details{
+        width:100%;
+        height: 100%;
+        }
 }
 
