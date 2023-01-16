@@ -409,5 +409,15 @@ ul li a:hover{
            .btn{
              margin: 140px 15px 30px 95px;
         }
+        .banner{
+            width: 100%;
+            height: 100%;
+            object-position: center;
+            object-fit: contain;
+            margin: 0px 0px;
+           }
+           .main{
+              flex-direction: column;
+           }
 }
 
