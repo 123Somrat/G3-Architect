@@ -312,5 +312,12 @@ ul li a:hover{
     color: #727272;
        
 }
+.sponsor-name{
+    display:grid;
+    grid-template-columns: repeat(5,1fr);
+    margin-left:240px;
+    margin-bottom: 130px;
+ 
+}
 
 
