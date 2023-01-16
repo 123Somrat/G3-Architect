@@ -228,3 +228,13 @@ ul li a:hover{
     color: #131313;
     white-space: nowrap;
 }
+.fact-details{
+    width:542px;
+    height:52px;
+    font-style: normal;
+     font-weight: 400;
+     font-size: 16px;
+    line-height: 26px;     
+     color: #727272;
+    white-space: wrap;
+}
