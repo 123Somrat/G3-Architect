@@ -296,5 +296,13 @@ ul li a:hover{
     height:129px;
     margin:180px 689px 50px 689px
 }
+.sponsars>h1{
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 45px;
+    line-height: 53px;
+     color: #131313;
+}
 
 
