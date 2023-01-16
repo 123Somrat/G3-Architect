@@ -369,5 +369,13 @@ ul li a:hover{
         margin-left:105px;
         margin-bottom: 30px;   
    }
+   .navbar{
+    flex-direction: column;
+     
+    }
+    ul{
+       position: relative;
+      flex-direction: column;
+     }
 }
 
