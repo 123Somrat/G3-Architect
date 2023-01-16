@@ -489,7 +489,16 @@ ul li a:hover{
          .sponsars{
             width:100%;
             margin-left:10px
-         } 
+         }
+         .sponsor-name{
+            grid-template-columns: repeat(1,1fr);
+            justify-content: center;
+            margin-left:100px;
+            gap:50px
+        }
+        .in{
+           margin-left:25px
+        }
          .copyright>p{
             padding: 8px;
             
