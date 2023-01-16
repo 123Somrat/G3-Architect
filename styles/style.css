@@ -258,3 +258,22 @@ ul li a:hover{
     line-height: 43px;
      color: #727272;
 }
+.project{
+    width:241px;
+    height:241px;
+    margin-right:124px;
+    transition: transform 3s;
+    
+}
+.client{
+    width:241px;
+    height:241px;
+    transition: transform 3s ease-in 2s;
+    margin-right:124px
+}
+.send-email{
+    width:241px;
+    height:241px;
+    margin-right:124px;
+    transition: transform 3s;
+}
