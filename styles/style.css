@@ -176,3 +176,9 @@ ul li a:hover{
      padding:10px;
     margin-bottom:50px;
 }
+.feature>p{
+    font-weight: 400;
+    font-size: 16px;
+   line-height: 20px; 
+   color: #727272;
+}
