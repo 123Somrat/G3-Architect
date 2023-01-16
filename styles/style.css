@@ -147,3 +147,14 @@ ul li a:hover{
    border-radius: 8px;
    margin-top:32px
 }
+.amazing-features{
+    width:1440px;
+    height: 1059px;
+    margin: 10px 54px 207px 240px;
+    display: flex;
+}
+.amazing-feature{
+    width:586px;
+    height:982px;
+   
+}
