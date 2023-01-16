@@ -304,5 +304,13 @@ ul li a:hover{
     line-height: 53px;
      color: #131313;
 }
+.sponsars>p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+       
+}
 
 
