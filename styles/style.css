@@ -218,3 +218,13 @@ ul li a:hover{
    text-align: center;
     color: #FFFFFF;
 }
+.facts{
+    margin:130px 1422px 100px 240px;
+}
+.facts>h1{
+    font-weight: 700;
+    font-size: 45px;
+   line-height: 53px;
+    color: #131313;
+    white-space: nowrap;
+}
